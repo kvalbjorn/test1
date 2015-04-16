@@ -19,6 +19,7 @@
 * the software package with which this file was provided.
 *******************************************************************************/
 
+// modified in bug_fix
 #include "hrss.h"
 #include "bass.h"
 
